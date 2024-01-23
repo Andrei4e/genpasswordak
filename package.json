@@ -1,0 +1,23 @@
+{
+  "name": "genpasswordak",
+  "version": "1.0.0",
+  "description": "A package designed to generate random passwords",
+  "main": "genPwd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrei4e/genpasswordak.git"
+  },
+  "keywords": [
+    "Generation",
+    "Password"
+  ],
+  "author": "Andrey Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrei4e/genpasswordak/issues"
+  },
+  "homepage": "https://github.com/Andrei4e/genpasswordak#readme"
+}
